@@ -1,0 +1,45 @@
+Scatterer_atmosphere
+{
+	Atmo
+	{
+		name = Sauwel c t
+		assetPath = WeekWorldPlanetJam/KopernicusFiles/2_Sauwel_c/Scatterer/AtmoAP.cfg
+		experimentalAtmoScale = 1
+		flattenScaledSpaceMesh = 0.6
+		godrayStrength = 0.8
+                shininess = 0.2
+		specR = 0.3731
+		specG = 0.4077
+		specB = 0.4269
+		rimPower = 2
+		rimBlend = 1
+		Rg = 507000
+		Rt = 582000
+		HR = 3.744000
+		HM = 0.561600
+		m_mieG = 0.85
+		BETA_MSca: 0.009,0.009,0.009
+		m_betaR: 0.012,0.0279,0.0685
+		EVEIntegration_preserveCloudColors = False
+		configPoints
+		{
+			altitude = 0
+			skyExposure = 0.2
+			skyAlpha = 1
+			skyExtinctionTint = 1
+			scatteringExposure = 0.2
+			exctinctionTint = 1
+			extinctionThickness = 1 
+		}
+		configPoints
+		{
+			altitude = 75000
+			skyExposure = 0.2
+			skyAlpha = 1
+			skyExtinctionTint = 1
+			scatteringExposure = 0.2
+			exctinctionTint = 1
+			extinctionThickness = 1 
+		}
+	}
+}
