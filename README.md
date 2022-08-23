@@ -15,7 +15,7 @@ Credits:
 
 System layout:
 
-The Sauwel planetary system contains a total of 30 objects, including one star and three gas giants, split up into nine orbits. The result is a system of similar complexity to the real-world Solar System, but with a unique layout and some strange and interesting planets.
+The Sauwel planetary system contains a total of 30 objects, including one star and three gas giants, split up into nine orbits. Result is a system of similar complexity to the real-world Solar System, but with a unique layout and some strange and interesting planets.
 
 Screenshot of the layout of the inner system:
 ![A screenshot of Kerbal Space Program with Week World Planet Jam installed. A yellow star is at the center, with three concentric circular orbits indicated close in, a slightly elliptical orbit slightly farther out, and two very elliptical orbits. The two very elliptical orbits are pointing away from each other, with their apoapsis on the opposite side of the star.](https://user-images.githubusercontent.com/9667986/186221042-e584b3a3-eec1-4104-959c-f8ef27497fec.png)
