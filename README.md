@@ -1,9 +1,16 @@
 # WeekWorldPlanetJam
-A collaboration between ten contributors to create a Kerbal Space Program planet mod within the span of one week.
+*A collaboration between ten contributors to create a Kerbal Space Program planet mod within the span of one week.*
+
+On 2022 August 14, at the behest of @Techo, ten planet builders on the Gregrox Mods discord server came together to build a solar system together within one week, in an event called the Week World Planet Jam. We present the results of this collaboration here. The Sauwel system contains 9 planetary systems comprising 30 celestial bodies. Aside from a few initial conditions, each contributor created their planet blind, with no spoilers or hints about the other contributors' work. The system is therefore an interesting mix of different styles of planet design, resulting in a system where every planet is something of a unique oddball.
+
+Mod dependencies:
+* Kopernicus (and its dependencies) https://github.com/Kopernicus/Kopernicus/releases
+* KopernicusExpansions-Continueder https://github.com/VabienArt/KopernicusExpansion-Continueder/releases/
+    * Specifically KEX-Common, KEX-RegionalPQS and KEX-VertexHeightMap16
 
 Credits:
-* Luna Gregoria (GregroxMun) - The central star Sauwel, layout of system orbits and masses, project lead.
-* WarriorSabe - Planet b (2 objects)
+* Luna Gregoria (GregroxMun) - The central star Sauwel, layout of system orbits and masses, Scatterer sun lens flare, project lead.
+* WarriorSabe - Planet b (2 objects), Scatterer sun lens flare.
 * Wolf Rayet (Exo's Lab) - Planet c (8 objects), project lead.
 * Adstri - Planet d (1 object).
 * Techo - Planet e (3 objects), project lead.
