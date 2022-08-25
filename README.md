@@ -57,7 +57,7 @@ Sauwel
     * Sauwel h II **Kalt**
     * Sauwel h III **Tris**
     * Sauwel h IV **Nik**
-    * Sauwel h V **Nak***
+    * Sauwel h V **Nak**
 * Sauwel i **Iridel**
 * Sauwel j **Merune**
     * Sauwel j I **Erica** 
