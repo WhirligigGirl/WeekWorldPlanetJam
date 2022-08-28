@@ -7,6 +7,8 @@ On 2022 August 14, at the behest of @Techo, ten planet builders on the Gregrox M
 * Kopernicus (and its dependencies) https://github.com/Kopernicus/Kopernicus/releases
 * KopernicusExpansions-Continueder https://github.com/VabienArt/KopernicusExpansion-Continueder/releases/
     * Specifically KEX-Common, KEX-RegionalPQS and KEX-VertexHeightMap16
+* SciRev/Scientific Revolution (bundled with WWPJ, MIT License)
+* TextureReplacer (bundled with WWPJ, MIT License)
 
 # Credits:
 * Luna Gregoria (GregroxMun) - The central star Sauwel, layout of system orbits and masses, Scatterer sun lens flare, project lead.
