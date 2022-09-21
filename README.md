@@ -11,9 +11,9 @@ On 2022 August 14, at the behest of @Techo, ten planet builders on the Gregrox M
 * TextureReplacer (bundled with WWPJ, MIT License)
 
 # Credits:
-* Luna Gregoria (GregroxMun) - The central star Sauwel, layout of system orbits and masses, Scatterer sun lens flare, project lead.
+* Luna Gregoria (GregroxMun) - The central star Sauwel, layout of system orbits and masses, Scatterer sun lens flare, cloud map for planet d, project lead.
 * WarriorSabe - Planet b (2 objects), Scatterer sun lens flare.
-* Wolf Rayet (Exo's Lab) - Planet c (8 objects), project lead.
+* Wolf Rayet (Exo's Lab) - Planet c (8 objects), cloud map for planet d, project lead.
 * Adstri - Planet d (1 object).
 * Techo - Planet e (3 objects), project lead.
 * Marshall (Myth) - Planet f (3 objects).
