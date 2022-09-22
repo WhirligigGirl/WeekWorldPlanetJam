@@ -68,4 +68,10 @@ Sauwel
 
 # License 
 
-Week World Planet Jam: All Rights Reserved.
+Week World Planet Jam
+
+Please provide attribution both to Week World Planet Jam, and to the modder whose work you are using.
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+CC-BY-NC-SA 4.0
+
