@@ -10,6 +10,11 @@ On 2022 August 14, at the behest of @Techo, ten planet builders on the Gregrox M
 * SciRev/Scientific Revolution (bundled with WWPJ, MIT License)
 * TextureReplacer (bundled with WWPJ, MIT License)
 
+# Mod compatibility:
+* Scatterer (Sun flare and scattered atmosphere rendering for atmospheric planets): https://github.com/LGhassen/Scatterer/releases
+* Environmental Visual Enhancements Redux (shadow casting on relevant planets, no clouds.) https://github.com/LGhassen/EnvironmentalVisualEnhancements
+* Kronometer (custom calendar/clock systems to account for Asite Par's weird rotation.) https://github.com/linuxgurugamer/Kronometer/releases
+
 # Credits:
 * Luna Gregoria (GregroxMun) - The central star Sauwel, layout of system orbits and masses, Scatterer sun lens flare, cloud map for planet d, project lead.
 * WarriorSabe - Planet b (2 objects), Scatterer sun lens flare.
